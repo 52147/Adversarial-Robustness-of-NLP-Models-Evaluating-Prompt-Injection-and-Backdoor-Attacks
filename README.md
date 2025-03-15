@@ -13,7 +13,7 @@ This repository contains:
 - **Defense Strategies**: Methods for improving robustness
 - **Experimental Results**: Evaluation of popular LLMs
 
-## 📂 Files & Directories
+## Files & Directories
 - `notebooks/` - Jupyter notebooks with attack/defense experiments
 - `data/` - Adversarial datasets used for fine-tuning
 - `models/` - Pre-trained adversarially fine-tuned models
